@@ -1,0 +1,1 @@
+//Handles user profile logic (viewing, editing, following/unfollowing)

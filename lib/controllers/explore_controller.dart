@@ -1,0 +1,1 @@
+//Manages the explore feed, fetches trending Pins

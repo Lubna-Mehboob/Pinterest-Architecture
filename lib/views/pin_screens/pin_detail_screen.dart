@@ -1,0 +1,1 @@
+//Screen showing details of a specific Pin (image, description, comments)
